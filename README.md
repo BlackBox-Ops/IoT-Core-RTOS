@@ -8,8 +8,8 @@ Repositori ini berisi serangkaian proyek pengembangan firmware tingkat lanjut me
 ## 📂 Struktur Repositori
 Setiap modul folder berisi file `.ino` dan gambar skema rangkaian:
 
-1.  **`01_LED_Controller_OOP/`**: Kontrol LED berbasis objek dengan enkapsulasi logika hardware.
-2.  **`02_DHT_Custom_Library/`**: Implementasi driver sensor DHT kustom berbasis bit-banging.
+1.  **`01_LED_Controller`**: Kontrol LED berbasis objek dengan enkapsulasi logika hardware.
+2.  **`02_DHT_Custom_Librar/`**: Implementasi driver sensor DHT kustom berbasis bit-banging.
 3.  **`03_Multisensor_RTOS_Queue/`**: Sistem monitoring sensor DS18B20 menggunakan Dual-Core dan Message Queue.
 4.  **`04_RTOS_Shared_Buffer_Mutex/`**: Manajemen shared memory menggunakan Mutex Semaphore.
 
